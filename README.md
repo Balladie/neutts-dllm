@@ -18,6 +18,8 @@ pip install -r requirements.txt
 
 ## Usage
 
+Checkpoint available at [ssonpull519/neutts-air-dllm-bd8](https://huggingface.co/ssonpull519/neutts-air-dllm-bd8). The script automatically downloads it.
+
 ```bash
 python generate.py \
     --text "Dealing with family secrets is never easy. Yet, sometimes, omission is a form of protection, intending to safeguard some from the harsh truths." \
